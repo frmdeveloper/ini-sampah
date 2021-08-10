@@ -1,0 +1,19 @@
+{
+  "name": "sampah",
+  "version": "1.2.3",
+  "description": "sampah",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "dependencies": {
+    "os": "latest"
+  },
+  "scripts": {
+    "start": "node index.js"
+  },
+  "engines": {
+    "node": "16.x",
+    "npm": "7.x"
+  },
+}
